@@ -1,19 +1,19 @@
 {
-  "name": "editor-skeleton",
-  "author": "Team Vantage",
-  "description": "Replace this with a description of your editor.",
+  "name": "Team ZNG",
+  "author": "Parviz ZNG",
+  "description": "This is a Forza Horizon 3 gamesave editor.",
   "version": "0.1.0",
   "vantage": {
-    "game": "Game Name",
-    "scid": "00000000-0000-0000-0000-000000000000",
-    "thumbnailUrl": "https://i.imgur.com/hgdfCBd.png",
+    "game": "Forza Horizon 3",
+    "scid": "19020100-9575-4c2b-9916-3d664ce1dfab",
+    "thumbnailUrl": "https://i.gyazo.com/d4dae22b07a485b2f6486e80cd9b2526.png",
     "name": "Campaign Editor",
     "containerFilter": "savegame.svg",
     "fileFilter": "save"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vantage/editor-skeleton.git"
+    "url": "git+https://github.com/parvizdev/editor-skeleton.git"
   },
   "license": "GPL-3.0",
   "dependencies": {
